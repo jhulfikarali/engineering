@@ -1,10 +1,6 @@
 # API Engineering
 
-## Background
-
-I am passionate to teach IT skills and doing it for few years now. By the end of 2021, I felt we needed a better plan based on  years of teaching. So, started working with group of friends on a Community Initiative to upskill IT professionals in NJ.
-
-I felt this documentation is due as we focus on one of the key subject "API Engineering".
+Rationale for this documentation is [2021 Community Initiative](../2021_community_initiative/README.md). I felt this documentation is due as we focus on one of the key subject "API Engineering".
 
 ## Topics
 
