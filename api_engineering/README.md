@@ -35,4 +35,11 @@ Some of the patterns we are interested are:
 <li>Vertical and Horizontal scaling
 </ul>
 <li><a href="./distributed_computing/README.md">Distributed Computing</a>
-<li><a href="./observability/README.md">Observability</a>
+<li><a href="../api_engineering/observability/README.md">Observability</a>
+Some of the data we need are:
+<ul>
+<li>Logging
+<li>Metrics
+<li>Alerts - Threshold and Anomaly
+<li>Tracing
+</ul>
