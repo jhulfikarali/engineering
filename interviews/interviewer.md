@@ -33,6 +33,7 @@
  * Collection - Vector vs List
 * Design patterns - Write Singleton/Factory Pattern? Whats your favorite pattern and what did you use recently?
 * DRY, SOLID, etc?
+* Functional Interface and Lambda example
 * Spring experience? @Qualifier vs @Primary annotation
 * Design Rest API for Employee management - Just idea and no code
 * List of employees (Read) API is slow. How do troubleshoot and what can you improve?
